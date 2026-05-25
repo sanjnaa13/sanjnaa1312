@@ -25,7 +25,7 @@ I am a Master's graduate in Embedded Systems and currently working on Embedded I
 - Wi-Fi
 
 ### Programming Languages
--C
+- C
 - C++
 - Python
 
@@ -40,10 +40,10 @@ I am a Master's graduate in Embedded Systems and currently working on Embedded I
 - Altium
 - Fusion 360
 
-**📱Connect With Me**
-GitHub: 
-LinkedIn: linkedin.com/in/sanjanar1312
-Email: sanjnaa.1312@gmail.com
+## 📱 Connect With Me
+- GitHub: https://github.com/sanjnaa13
+- LinkedIn: linkedin.com/in/sanjanar1312
+- Email: sanjnaa.1312@gmail.com
 
 ## 🌸 Fun Fact
 
