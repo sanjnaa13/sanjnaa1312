@@ -8,6 +8,7 @@ I am a Master's graduate in Embedded Systems and currently working on Embedded I
 - LoRa communication
 - MQTT and cloud integration
 - Energy-efficient embedded architectures
+- PCB Design
 
 ## 🔧Tools & Technologies
 ### Embedded Systems
